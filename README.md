@@ -8,8 +8,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sohanuzzamansoad/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/sssoad/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@ssoad)
-![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=sssoad_&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ssoad?logo=GitHub&style=for-the-badge)
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> </p>
 
 - 🔭 I’m currently working on [Learn With Soad](https://www.youtube.com/channel/UCAqGELfTXXcDK2K6wrQGpFw)
 
