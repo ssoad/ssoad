@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohanuzzaman Soad</h1>
 <h3 align="center">A passionate Developer and Researcher</h3>
+<p align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=30&margin-h=30&row=2&column=4)](https://github.com/ssoad)
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=20&margin-h=20&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👨‍💻 All of my projects are available at [ssoad.github.io](ssoad.github.io)
