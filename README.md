@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohanuzzaman Soad</h1>
 <h3 align="center">A passionate Developer and Researcher</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> </p>
+<br><br>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
 </p>
