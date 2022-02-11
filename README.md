@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sohanuzzaman Soad</h1>
 <h3 align="center">A passionate Developer and Researcher</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2056%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+</p>
 <br><br>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
