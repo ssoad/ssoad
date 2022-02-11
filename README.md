@@ -1,90 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sohanuzzaman Soad</h1>
 <h3 align="center">A passionate Developer and Researcher</h3>
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> <br>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20mins-blue)
+    <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> <br></p>
 
-**🐱 My GitHub Data** 
-
-> 🏆 36 Contributions in the Year 2022
- > 
-> 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
-🌆 Daytime    188 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-🌃 Evening    356 commits    ████████░░░░░░░░░░░░░░░░░   34.2% 
-🌙 Night      489 commits    ███████████░░░░░░░░░░░░░░   46.97%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       182 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Tuesday      169 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
-Wednesday    82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
-Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
-Friday       112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Saturday     268 commits    ██████░░░░░░░░░░░░░░░░░░░   25.74% 
-Sunday       104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     18 repos            ███████░░░░░░░░░░░░░░░░░░   30.51% 
-Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42% 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-Jupyter Notebook         5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ssoad/ssoad/master/charts/bar_graph.png) 
-
-
- Last Updated on 11/02/2022 20:16:17 UTC
-<!--END_SECTION:waka-->
-</p>
 <br><br>
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
 </p>
-
-
 
 - 👨‍💻 All of my projects are available at [ssoad.github.io](ssoad.github.io)
 
@@ -96,6 +18,8 @@ Jupyter Notebook         5 repos             ██░░░░░░░░░�
 
 - ⚡ Fun fact **Completely Introvert**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ssoad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ssoad" height="30" width="40" /></a>
