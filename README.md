@@ -19,11 +19,11 @@
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 123 Contributions in the Year 2022
+> 🏆 127 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -33,48 +33,6 @@
  > 
 > 🔑 23 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46% 
-🌆 Daytime    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-🌃 Evening    214 commits    ████████░░░░░░░░░░░░░░░░░   32.67% 
-🌙 Night      341 commits    █████████████░░░░░░░░░░░░   52.06%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       130 commits    █████░░░░░░░░░░░░░░░░░░░░   19.85% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Wednesday    38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
-Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Friday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
-Saturday     125 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-Sunday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -92,7 +50,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ssoad/ssoad/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:57:09 UTC
+ Last Updated on 04/09/2022 18:53:51 UTC
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
