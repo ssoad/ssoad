@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 143 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -33,6 +33,48 @@
  > 
 > 🔑 23 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
+🌆 Daytime    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
+🌃 Evening    214 commits    ████████░░░░░░░░░░░░░░░░░   31.7% 
+🌙 Night      361 commits    █████████████░░░░░░░░░░░░   53.48%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       133 commits    █████░░░░░░░░░░░░░░░░░░░░   19.7% 
+Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Wednesday    42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
+Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Friday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Saturday     126 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
+Sunday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -50,7 +92,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ssoad/ssoad/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 19:03:08 UTC
+ Last Updated on 15/09/2022 18:58:46 UTC
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
