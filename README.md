@@ -19,11 +19,11 @@
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 231 Contributions in the Year 2022
+> 🏆 232 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -62,17 +62,17 @@ Sunday       97 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Dart                     44 mins             ██████████████████████░░░   87.52% 
-GitIgnore file           6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
+Dart                     1 hr 27 mins        ███████████████████████░░   93.27% 
+GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
 
 🔥 Editors: 
-Android Studio           50 mins             █████████████████████████   100.0%
+Android Studio           1 hr 33 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-icpc_gms                 50 mins             █████████████████████████   100.0%
+icpc_gms                 1 hr 33 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.0%
+Windows                  1 hr 33 mins        █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ssoad/ssoad/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 18:52:02 UTC
+ Last Updated on 07/11/2022 18:53:36 UTC
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
