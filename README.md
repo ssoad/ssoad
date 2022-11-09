@@ -19,11 +19,11 @@
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 233 Contributions in the Year 2022
+> 🏆 234 Contributions in the Year 2022
  > 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
@@ -33,48 +33,6 @@
  > 
 > 🔑 23 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
-🌆 Daytime    90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   29.55% 
-🌙 Night      376 commits    ██████████████░░░░░░░░░░░   56.12%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
-Tuesday      97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Wednesday    43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
-Thursday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Friday       109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
-Saturday     132 commits    █████░░░░░░░░░░░░░░░░░░░░   19.7% 
-Sunday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Dart                     1 hr 57 mins        █████████████████████████   100.0%
-
-🔥 Editors: 
-Android Studio           1 hr 57 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-icpc_gms                 1 hr 57 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -92,7 +50,7 @@ JavaScript               5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ssoad/ssoad/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:07:12 UTC
+ Last Updated on 09/11/2022 18:55:23 UTC
 <!--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
