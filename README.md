@@ -115,7 +115,7 @@ JavaScript               5 repos             █░░░░░░░░░░�
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssoad&show_icons=true&locale=en&layout=compact"  alt="ssoad" /></p>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=ssoad&show_icons=true&locale=en" alt="ssoad" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssoad&show_icons=true&locale=en" alt="ssoad" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssoad&" alt="ssoad" /></p>
 
