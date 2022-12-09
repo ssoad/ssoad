@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Developer and Researcher</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> <br></p>
-
-<br><br>
+<br>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
+    <a href="https://stardev.io/developers/ssoad"><img alt="Check out ssoad&apos;s profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/global.svg" /></a> <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=ssoad&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
 </p>
 
 - 👨‍💻 All of my projects are available at [ssoad.github.io](ssoad.github.io)
