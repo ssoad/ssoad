@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> <br></p>
 <br>
 <p align="center">
-    <a href="https://stardev.io/developers/ssoad"><img alt="Check out ssoad&apos;s profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/global.svg" /></a> <br><br>
+   <a href="https://stardev.io/developers/ssoad"><img alt="Check out ssoad's profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/locality.svg" /></a> <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=ssoad&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
 </p>
 
