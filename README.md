@@ -118,7 +118,6 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 ## My Github Stats
-<p align="center">
 <table align="center">
     <tr>
         <td>
@@ -129,9 +128,7 @@ C++                      5 repos             █░░░░░░░░░░�
         </td>
     </tr>
 </table>
- 
 
-</p>
 
 <p align="center">
         <img src="https://streak-stats.demolab.com?user=ssoad&theme=react&hide_border=true&border_radius=6.3"/>
