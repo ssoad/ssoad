@@ -118,26 +118,12 @@ C++                      5 repos             █░░░░░░░░░░�
 
 
 ## My Github Stats
-<center>
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sohanuzzaman Soad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssoad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sohanuzzaman Soad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-        </td>
-    </tr>
-</table>
-</center>
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sohanuzzaman Soad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ssoad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sohanuzzaman Soad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssoad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 
 <p align="center">
-    <table align="center">
-        <tr>
-            <td>
-        <img src="https://streak-stats.demolab.com?user=ssoad&theme=tokyonight_duo&hide_border=true&border_radius=6.3"/>
-            </td>
-        </tr>
-   </table>
+        <img src="https://streak-stats.demolab.com?user=ssoad&theme=blueberry_duo&hide_border=true&border_radius=6.3"/>
 </p>
 
