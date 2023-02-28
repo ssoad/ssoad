@@ -19,4 +19,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "True" 
           SYMBOL_VERSION: 2
-          LOCALE: "en"
+         # LOCALE: "en"
