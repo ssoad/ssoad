@@ -3,10 +3,17 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> <br></p>
 <br>
+<br>
 <p align="center">
    <a href="https://stardev.io/developers/ssoad"><img alt="Check out ssoad's profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/locality.svg" /></a> <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=ssoad&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
 </p>
+
+<h2>📫 Like to meet me?</h2>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<br><br>
+<a href="https://calendly.com/ssoad/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<br><br>
 
 - 👨‍💻 All of my projects are available at [ssoad.github.io](ssoad.github.io)
 
