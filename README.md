@@ -18,9 +18,9 @@
  <p float="left" align="center">
 <!--      <img alt="Check out ssoad's profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/locality.svg" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="/badges/meta-android-developer-certificate.png" height="150" width="150" />
+  <img src="./badges/meta-android-developer-certificate.png" height="150" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/badges/deep-learning-specialization.png" height="150" width="150" />
+  <img src="./badges/deep-learning-specialization.png" height="150" width="150" />
 
   
 </p>
