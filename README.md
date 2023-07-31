@@ -2,11 +2,27 @@
 <h3 align="center">A passionate Developer and Researcher</h3>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ssoad" alt="ssoad" /> <br></p>
+
 <br>
 <br>
 <p align="center">
    <a href="https://stardev.io/developers/ssoad"><img alt="Check out ssoad's profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/locality.svg" /></a> <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=ssoad&theme=onedark&margin-w=30&margin-h=30&row=2&column=4" alt="ssoad" />
+</p>
+
+<br>
+<br>
+
+
+## 🎖️ Earned Specialized Badges 
+ <p float="left" align="center">
+<!--      <img alt="Check out ssoad's profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/locality.svg" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <img src="/badges/meta-android-developer-certificate.png" height="150" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/badges/deep-learning-specialization.png" height="150" width="150" />
+
+  
 </p>
 
 <h2>📫 Like to meet me?</h2>
