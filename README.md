@@ -42,7 +42,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2014%20mins-blue)
+[![wakatime](https://wakatime.com/badge/user/b8ab2b43-9561-4d8b-af6e-5414a8298d88.svg)](https://wakatime.com/@b8ab2b43-9561-4d8b-af6e-5414a8298d88)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
