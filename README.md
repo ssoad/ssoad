@@ -1,6 +1,7 @@
 ![](assets/Bottom_up.svg)
 <!--   my-icons -->
 <p align="center">
+    💜 I'm trying to romanticize programming<br><br>
     <a href="https://github.com/ssoad/ssoad"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/ssoad/ssoad/graphs/contributors"><img src="https://img.shields.io/github/contributors/ssoad/ssoad?color=blue"></a>
