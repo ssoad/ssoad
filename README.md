@@ -2,6 +2,7 @@
 <!--   my-icons -->
 <p align="center">
     💜 I'm trying to romanticize programming<br><br>
+    Growing up, I was always fascinated with the way things worked. There was nothing that I could not set my mind to that I would try to figure out. I was always taking things apart and putting them back together. Failed a bunched but learned along the way.<br><br><br>
     <a href="https://github.com/ssoad/ssoad"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/ssoad/ssoad/graphs/contributors"><img src="https://img.shields.io/github/contributors/ssoad/ssoad?color=blue"></a>
