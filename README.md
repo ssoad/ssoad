@@ -85,7 +85,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C189%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C189%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
@@ -93,7 +93,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,259 Contributions in the Year 2025
+> 🏆 1,261 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -101,6 +101,46 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  > 
 > 🔑 58 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                57 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.80 % 
+🌆 Daytime                1081 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.11 % 
+🌃 Evening                2653 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.07 % 
+🌙 Night                  3365 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.02 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   829 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.58 % 
+Tuesday                  817 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.42 % 
+Wednesday                699 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.77 % 
+Thursday                 2463 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.42 % 
+Friday                   628 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.78 % 
+Saturday                 977 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.65 % 
+Sunday                   743 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+PHP                      1 hr 1 min          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.96 % 
+Blade Template           20 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.87 % 
+Bash                     9 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.48 % 
+JSON                     6 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.59 % 
+Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.76 % 
+
+🔥 Editors: 
+VS Code                  1 hr 38 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 38 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -118,7 +158,7 @@ HTML                     7 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ssoad/ssoad/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 17:39:27 UTC
+ Last Updated on 26/10/2025 17:40:17 UTC
 <!--END_SECTION:waka-->
 
 
