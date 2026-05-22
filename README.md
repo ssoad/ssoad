@@ -85,15 +85,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C282%20hrs%2044%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 666 Contributions in the Year 2026
+> 🏆 668 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,7 +116,7 @@ Kotlin                   7 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ssoad/ssoad/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 19:32:01 UTC
+ Last Updated on 22/05/2026 19:18:53 UTC
 <!--END_SECTION:waka-->
 
 
