@@ -85,9 +85,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.36%20million%20lines%20of%20code-blue?style=flat)
 
@@ -95,7 +95,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,147 Contributions in the Year 2026
+> 🏆 1,149 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -103,6 +103,68 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  > 
 > 🔑 71 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                74 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.82 % 
+🌆 Daytime                1715 commits        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.98 % 
+🌃 Evening                3238 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.84 % 
+🌙 Night                  4007 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.35 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1095 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.12 % 
+Tuesday                  1134 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.55 % 
+Wednesday                1042 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.53 % 
+Thursday                 2706 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.95 % 
+Friday                   800 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.86 % 
+Saturday                 1218 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.48 % 
+Sunday                   1039 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+TypeScript               34 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.58 % 
+JSON                     8 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.58 % 
+Markdown                 7 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.13 % 
+XML                      4 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.41 % 
+Kotlin                   2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.22 % 
+
+🔥 Editors: 
+VS Code                  59 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+💻 Operating System: 
+Mac                      59 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 56 mins (95.56%)
+
+✍️ 1,659 lines written by AI, 1 lines written by hand (99.94% AI-written)
+
+🔤 78,433 Input Tokens, 373 Output Tokens
+
+💵 $0.24 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 25 AI Prompts
+
+Github-Copilot           1,759 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 572 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -120,7 +182,7 @@ Kotlin                   8 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ssoad/ssoad/master/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 18:19:08 UTC
+ Last Updated on 11/08/2026 18:21:32 UTC
 <!--END_SECTION:waka-->
 
 
