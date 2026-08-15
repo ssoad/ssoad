@@ -85,9 +85,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - ⚡ Fun fact **Completely Introvert**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C433%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C433%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -95,7 +95,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 > 📦 4.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,160 Contributions in the Year 2026
+> 🏆 1,162 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -108,19 +108,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```text
 🌞 Morning                74 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.82 % 
 🌆 Daytime                1717 commits        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.98 % 
-🌃 Evening                3241 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.83 % 
-🌙 Night                  4013 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.37 % 
+🌃 Evening                3241 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.82 % 
+🌙 Night                  4015 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1095 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.11 % 
-Tuesday                  1134 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.54 % 
+Monday                   1095 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.10 % 
+Tuesday                  1134 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.53 % 
 Wednesday                1044 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.54 % 
 Thursday                 2713 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.99 % 
-Friday                   802 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.87 % 
-Saturday                 1218 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.47 % 
-Sunday                   1039 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.49 % 
+Friday                   802 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.86 % 
+Saturday                 1220 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.49 % 
+Sunday                   1039 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.48 % 
 ```
 
 
@@ -130,45 +130,45 @@ Sunday                   1039 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Dart                     44 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.32 % 
-Python                   36 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.09 % 
-Markdown                 25 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.62 % 
-TypeScript               22 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.99 % 
-JSON                     18 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.48 % 
+Python                   54 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.96 % 
+Dart                     44 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.21 % 
+Markdown                 27 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.06 % 
+TypeScript               22 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.90 % 
+JSON                     18 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.62 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.93 % 
-Antigravity Desktop      28 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.03 % 
-Claude Code              3 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.05 % 
+VS Code                  2 hrs 33 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.09 % 
+Antigravity Desktop      52 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.05 % 
+Claude Code              3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 % 
 
 💻 Operating System: 
-Mac                      3 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Mac                      3 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (95.15%)
+⏱ AI Coding Time: 3 hrs 20 mins (95.81%)
 
-✍️ 6,489 lines written by AI, 8 lines written by hand (99.88% AI-written)
+✍️ 5,802 lines written by AI, 7 lines written by hand (99.88% AI-written)
 
 🔤 2,222,273 Input Tokens, 22,369 Output Tokens
 
 💵 $7.11 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 83 AI Prompts
+🧠 14 AI Sessions, 93 AI Prompts
 
-Github-Copilot           6,156 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.55 % 
-Nemotron                 287 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.27 % 
-Oss                      277 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.12 % 
-Gemini                   4 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 % 
+Github-Copilot           5,404 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   89.78 % 
+Nemotron                 287 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.77 % 
+Oss                      277 lines           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.60 % 
+Gemini                   51 lines            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 % 
 Opus                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 1,655 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.22% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,515 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -188,7 +188,7 @@ Kotlin                   8 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/ssoad/ssoad/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 18:19:14 UTC
+ Last Updated on 15/08/2026 17:48:16 UTC
 <!--END_SECTION:waka-->
 
 
